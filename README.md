@@ -7,9 +7,9 @@
 - 💡 I like to explore new technologies 
 - 🌱 I’m learning more about PowerBI, Seaborn and Tableau
 - 💬 Ask me about **Data Engineer, Data Analytics and Mechanical Engineering**, I am happy to help 😊
-- ✍️ In my free time, I watch races or videos related to the world of motorsport and exercise.
+- ✍️ In my free time, I watch races or videos related to the world of motorsport🏎️ and exercise 🏋🏻.
 - ✉️ You can shoot me an email at **dannielarodriguezjove@gmail.com**! I'll try to respond as soon as I can.
-- 📄 Please have a look at my curriculum for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look👀 at my curriculum for more details about me. I'm open to feedback and suggestions! 
 
 ### 🛠 &nbsp;Tech Stack 
 
