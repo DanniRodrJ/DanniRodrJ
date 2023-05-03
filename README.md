@@ -2,7 +2,7 @@
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 I’m currently working on my portfolio
+- 💼 I’m currently working on my professional portfolio
 - 🎓 Studying Data Science📊 at [Henry](https://www.soyhenry.com/) and Mechanical Engineering⚙️ at [UNEXPO](https://virtualunexpo.com/)
 - 💡 I like to explore new technologies 
 - 🌱 I’m learning more about PowerBI, Seaborn and Tableau
