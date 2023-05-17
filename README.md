@@ -7,7 +7,7 @@
 - 💡 I like to explore new technologies 
 - 🌱 I’m learning more about PowerBI, Seaborn and Tableau
 - 💬 Ask me about **Data Engineer, Data Analytics and Machine Learning**, I am happy to help 😊
-- ✍️ In my free time, I watch races or videos related to the world of motorsport🏎️ and exercise 🏋🏻.
+- 🙌 In my free time I usually exercise 🏋️‍♀️, read a book 📖, watch motorsports on TV 🏎️ or play video games 🎮. 
 - ✉️ You can shoot me an email at **dannielarodriguezjove@gmail.com**! I'll try to respond as soon as I can.
 - 📄 Please have a look👀 at my curriculum for more details about me. I'm open to feedback and suggestions! 
 
@@ -22,9 +22,9 @@
   ![microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)
   ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-05122A?style=flat&logo=apachehadoop&logoColor=66CCFF)
   ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apachespark)
+  ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-05122A?style=flat&logo=hive)
 - 📊 &nbsp;
   ![PowerBI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)
-  ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   ![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
