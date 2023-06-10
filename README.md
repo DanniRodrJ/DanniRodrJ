@@ -2,12 +2,12 @@
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 I’m currently working on my professional portfolio
+- 💼 I’m currently working on my portfolio
 - 🎓 Studying Data Science📊 at [Henry](https://www.soyhenry.com/) and Mechanical Engineering⚙️ at [UNEXPO](https://virtualunexpo.com/)
 - 💡 I like to explore new technologies 
-- 🌱 I’m learning more about PowerBI, Seaborn and Tableau
+- 🌱 I’m learning more about **Machine Learning** and Deep Learning
 - 💬 Ask me about **Data Engineer, Data Analytics and Machine Learning**, I am happy to help 😊
-- 🙌 In my free time I usually exercise 🏋️‍♀️, read a book 📖, watch motorsports on TV 🏎️ or play video games 🎮. 
+- ☘️ In my free time I usually exercise 🏋️‍♀️, read a book 📖, watch motorsports on TV 🏎️ or play video games 🎮. 
 - ✉️ You can shoot me an email at **dannielarodriguezjove@gmail.com**! I'll try to respond as soon as I can.
 - 📄 Please have a look👀 at my curriculum for more details about me. I'm open to feedback and suggestions! 
 
@@ -34,6 +34,8 @@
   ![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks)
   ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)
 - 🤖 &nbsp;
+  ![scikitlearn](https://img.shields.io/badge/-Scikit%learn-05122A?style=flat&logo=scikitlearn)
+  ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logokeras)
   
 
 ### 🤝🏻 &nbsp;Connect with Me
