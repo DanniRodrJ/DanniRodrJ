@@ -34,8 +34,8 @@
   ![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks)
   ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)
 - 🤖 &nbsp;
-  ![scikitlearn](https://img.shields.io/badge/-Scikit%learn-05122A?style=flat&logo=scikitlearn)
-  ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logokeras)
+  ![scikitlearn](https://img.shields.io/badge/-Scikit%20learn-05122A?style=flat&logo=scikitlearn)
+  ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)
   
 
 ### 🤝🏻 &nbsp;Connect with Me
