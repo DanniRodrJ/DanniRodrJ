@@ -25,6 +25,7 @@
 - 📊 &nbsp;
   ![PowerBI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)
   ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)
+  ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   ![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
