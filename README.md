@@ -2,14 +2,13 @@
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 I’m currently working on my portfolio
-- 🎓 Studying Data Science📊 at [Henry](https://www.soyhenry.com/) and Mechanical Engineering⚙️ at [UNEXPO](https://virtualunexpo.com/)
+- 🛠️ I'm currently working on projects to expand my portfolio 
+- 🎓 Studying Data Science📊 at [Henry](https://www.soyhenry.com/)
 - 💡 I like to explore new technologies 
 - 🌱 I’m learning more about **Machine Learning** and Deep Learning
 - 💬 Ask me about **Data Engineer, Data Analytics and Machine Learning**, I am happy to help 😊
 - ☘️ In my free time I usually exercise 🏋️‍♀️, read a book 📖, watch motorsports on TV 🏎️ or play video games 🎮. 
-- ✉️ You can shoot me an email at **dannielarodriguezjove@gmail.com**! I'll try to respond as soon as I can.
-- 📄 Please have a look👀 at my curriculum for more details about me. I'm open to feedback and suggestions! 
+- 📩 You can shoot me an email at **dannielarodriguezjove@gmail.com**! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack 
 
@@ -25,6 +24,7 @@
   ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-05122A?style=flat&logo=hive)
 - 📊 &nbsp;
   ![PowerBI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)
+  ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   ![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
