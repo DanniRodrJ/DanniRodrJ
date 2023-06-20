@@ -19,16 +19,18 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
   ![microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)
-  ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-05122A?style=flat&logo=apachehadoop&logoColor=66CCFF)
   ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apachespark)
   ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-05122A?style=flat&logo=hive)
 - 📊 &nbsp;
   ![PowerBI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)
-  ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn&logoColor=white)
   ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   ![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
+  ![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
