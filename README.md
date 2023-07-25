@@ -2,7 +2,7 @@
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
-- 🛠️ I'm currently working on projects to expand my portfolio 
+- 🛠️ I'm currently working on projects to expand my [portfolio](https://www.datascienceportfol.io/dannirodrj)
 - 🎓 Studying Data Science📊 at [Henry](https://www.soyhenry.com/)
 - 💡 I like to explore new technologies 
 - 🌱 I’m learning more about **Machine Learning** and Deep Learning
