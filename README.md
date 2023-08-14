@@ -1,6 +1,6 @@
 ### Hey <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">! 
 
-I'm Danniela Rodriguez, an aspiring data scientist interested in the interaction of data science and mechanical engineering. 
+I'm Danniela Rodriguez, an aspiring data scientist interested in the interaction of data science 📈🤖 and mechanical engineering ⚙️. 
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
