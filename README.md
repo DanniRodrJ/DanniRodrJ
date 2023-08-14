@@ -1,14 +1,15 @@
-### Hey <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">! I'm Danniela Rodriguez
+### Hey <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">! 
+
+I'm Danniela Rodriguez, an aspiring data scientist interested in the interaction of data science and mechanical engineering. 
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 🛠️ I'm currently working on projects to expand my [portfolio](https://www.datascienceportfol.io/dannirodrj)
 - 🎓 Studying Data Science📊 at [Henry](https://www.soyhenry.com/)
 - 💡 I like to explore new technologies 
-- 🌱 I’m learning more about **Machine Learning** and Deep Learning
-- 💬 Ask me about **Data Engineer, Data Analytics and Machine Learning**, I am happy to help 😊
+- 🌱 I am learning more about **Machine Learning**, especially natural language processing. 
+- 💬 Ask me about **Python, SQL and Machine Learning**, I am happy to help 😊
 - ☘️ In my free time I usually exercise 🏋️‍♀️, read a book 📖, watch motorsports on TV 🏎️ or play video games 🎮. 
-- 📩 You can shoot me an email at **dannielarodriguezjove@gmail.com**! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack 
 
