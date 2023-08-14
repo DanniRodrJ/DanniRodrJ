@@ -1,13 +1,13 @@
 ### Hey <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">! 
 
-I'm Danniela Rodriguez, an aspiring data scientist interested in the interaction of data science 📈🤖 and mechanical engineering ⚙️. 
+I'm Danniela Rodriguez, an aspiring data scientist interested in the interaction of Data Science 📈🤖 and Mechanical Engineering ⚙️. 
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 🛠️ I'm currently working on projects to expand my [portfolio](https://www.datascienceportfol.io/dannirodrj)
 - 🎓 Studying Data Science📊 at [Henry](https://www.soyhenry.com/)
 - 💡 I like to explore new technologies 
-- 🌱 I am learning more about **Machine Learning**, especially natural language processing. 
+- 🌱 I am learning more about **Machine Learning**, especially **Natural Language Processing** and **Time Series Analysis**. 
 - 💬 Ask me about **Python, SQL and Machine Learning**, I am happy to help 😊
 - ☘️ In my free time I usually exercise 🏋️‍♀️, read a book 📖, watch motorsports on TV 🏎️ or play video games 🎮. 
 
@@ -15,12 +15,16 @@ I'm Danniela Rodriguez, an aspiring data scientist interested in the interaction
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+  ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)
+- 💡 &nbsp;
   ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)
+  ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apachespark)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
   ![microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)
-  ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apachespark)
+- 🌐 &nbsp;
+  ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-05122A?style=flat&logo=apachehadoop)
   ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-05122A?style=flat&logo=hive)
 - 📊 &nbsp;
   ![PowerBI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)
@@ -40,6 +44,7 @@ I'm Danniela Rodriguez, an aspiring data scientist interested in the interaction
 - 🤖 &nbsp;
   ![scikitlearn](https://img.shields.io/badge/-Scikit%20learn-05122A?style=flat&logo=scikitlearn)
   ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)
+  ![spaCy](https://img.shields.io/badge/-spaCy-05122A?style=flat&logo=spacy)
   
 
 ### 🤝🏻 &nbsp;Connect with Me
