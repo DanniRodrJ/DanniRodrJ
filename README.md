@@ -1,13 +1,12 @@
-### Hey <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">! 
-
-I'm Danniela Rodriguez, an aspiring data scientist interested in the interaction of Data Science 📈🤖 and Mechanical Engineering ⚙️. 
+<h1 align="center"> Hey​👋​, I'm Danniela Rodriguez </h1> 
+<h3 align="center"> An aspiring data scientist from Venezuela </h3> 
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 🛠️ I'm currently working on projects to expand my [portfolio](https://www.datascienceportfol.io/dannirodrj)
-- 🎓 Studied data science📊 at [Henry](https://www.soyhenry.com/)
+- 🎓 I studied Data Science📊🤖 at [Henry](https://www.soyhenry.com/) and am currently studying Mechanical Engineering ⚙️
 - 💡 I like to explore new technologies 
-- 🌱 I am learning more about **Machine Learning**, especially **Natural Language Processing** and **Time Series Analysis**. 
+- 🌱 I'm currently learning more about **Machine Learning**, especially **Natural Language Processing** and **Time Series Analysis**. 
 - 💬 If you need someone to join your team, are interested in collaborating, or have any questions, feel free to contact me! 😊
 - ☘️ In my free time I usually exercise 🏋️‍♀️, read a book 📖, watch motorsports on TV 🏎️ or play video games 🎮. 
 
