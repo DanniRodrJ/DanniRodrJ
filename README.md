@@ -5,10 +5,10 @@ I'm Danniela Rodriguez, an aspiring data scientist interested in the interaction
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 🛠️ I'm currently working on projects to expand my [portfolio](https://www.datascienceportfol.io/dannirodrj)
-- 🎓 Studying Data Science📊 at [Henry](https://www.soyhenry.com/)
+- 🎓 Studied data science📊 at [Henry](https://www.soyhenry.com/)
 - 💡 I like to explore new technologies 
 - 🌱 I am learning more about **Machine Learning**, especially **Natural Language Processing** and **Time Series Analysis**. 
-- 💬 Ask me about **Python, SQL and Machine Learning**, I am happy to help 😊
+- 💬 If you need someone to join your team, are interested in collaborating, or have any questions, feel free to contact me! 😊
 - ☘️ In my free time I usually exercise 🏋️‍♀️, read a book 📖, watch motorsports on TV 🏎️ or play video games 🎮. 
 
 ### 🛠 &nbsp;Tech Stack 
