@@ -1,13 +1,13 @@
 <h1 align="center"> Hey​👋​, I'm Danniela Rodriguez </h1> 
-<h3 align="center"> An aspiring data scientist from Venezuela </h3> 
+<h4 align="center"> An aspiring Data Scientist and Data Engineer </h4> 
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 🛠️ I'm currently working on projects to expand my [portfolio](https://www.datascienceportfol.io/dannirodrj)
 - 🎓 I studied Data Science📊🤖 at [Henry](https://www.soyhenry.com/) and am currently studying Mechanical Engineering ⚙️
 - 💡 I like to explore new technologies 
-- 🌱 I'm currently learning more about **Machine Learning**, especially **Natural Language Processing** and **Time Series Analysis**. 
-- 💬 If you need someone to join your team, are interested in collaborating, or have any questions, feel free to contact me! 😊
+- 🌱 I'm currently learning more about **Natural Language Processing (NLP)**, **Time Series Analysis** and **Apache Airflow**. 
+- 💬 Ask me about **Python**, **SQL** and **Machine Learning**
 - ☘️ In my free time I usually exercise 🏋️‍♀️, read a book 📖, watch motorsports on TV 🏎️ or play video games 🎮. 
 
 ### 🛠 &nbsp;Tech Stack 
@@ -25,6 +25,7 @@
 - 🌐 &nbsp;
   ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-05122A?style=flat&logo=apachehadoop)
   ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-05122A?style=flat&logo=hive)
+  ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat&logo=apache%20airflow&logoColor=white)
 - 📊 &nbsp;
   ![PowerBI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=white)
@@ -44,9 +45,13 @@
   ![scikitlearn](https://img.shields.io/badge/-Scikit%20learn-05122A?style=flat&logo=scikitlearn)
   ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)
   ![spaCy](https://img.shields.io/badge/-spaCy-05122A?style=flat&logo=spacy)
+  ![NLTK](https://img.shields.io/badge/-NLTK-05122A?style=flat&logo=nltk)
+- ​☁️ &nbsp;
+  ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-05122A?style=flat&logo=google%20cloud&logoColor=white)
   
 
 ### 🤝🏻 &nbsp;Connect with Me
+If you need someone to join your team, are interested in collaborating, or have any questions, feel free to contact me! 😊
 
 <p align="center">
   <a href="https://linkedin.com/in/danniela-rodriguez-jove-/"><img src="https://img.shields.io/badge/-Danniela%20Rodriguez%20Jove-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
