@@ -1,5 +1,7 @@
-<h1 align="center"> Hey​👋​, I'm Danniela Rodriguez </h1> 
-<h4 align="center"> An aspiring Data Scientist and Data Engineer </h4> 
+![image](https://github.com/DanniRodrJ/DanniRodrJ/blob/main/github.png)
+
+<h1 align="center"> Hi👋, Welcome! </h1> 
+<h4 align="center"> I'm an aspiring Data Scientist and Data Engineer </h4> 
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
