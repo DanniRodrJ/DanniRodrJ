@@ -23,7 +23,8 @@
   ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apachespark)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-  ![microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 - 🌐 &nbsp;
   ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-05122A?style=flat&logo=apachehadoop)
   ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-05122A?style=flat&logo=hive)
