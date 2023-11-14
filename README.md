@@ -6,7 +6,7 @@
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 🛠️ I'm currently working on projects to expand my [portfolio](https://www.datascienceportfol.io/dannirodrj)
-- 🎓 I studied Data Science📊🤖 at [Henry](https://www.soyhenry.com/) 🇦🇷 and Mechanical Engineering⚙️ en [UNEXPO](https://virtualunexpo.com/) 🇻🇪 
+- 🎓 I studied Data Science📊🤖 at [Henry](https://www.soyhenry.com/) 🇦🇷 and Mechanical Engineering⚙️ at [UNEXPO](https://virtualunexpo.com/) 🇻🇪 
 - 💡 I like to explore new technologies 
 - 🌱 I'm currently learning more about **Natural Language Processing (NLP)**, **Time Series Analysis** and **Apache Airflow**. 
 - 💬 Ask me about **Python**, **SQL** and **Machine Learning** 😉
