@@ -2,6 +2,7 @@
 
 <h1 align="center"> Hi👋, Welcome! </h1> 
 <h4 align="center"> I'm an Data Science Engineer </h4> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DanniRodrJ&label=Profile%20views&color=05122A&style=flat" alt="DanniRodrJ" /> </p>
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
