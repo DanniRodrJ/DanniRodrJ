@@ -25,6 +25,7 @@
   ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apachespark)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+  ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 - 🌐 &nbsp;
@@ -36,6 +37,7 @@
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn&logoColor=white)
   ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
+  ![Excel](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat&logo=microsoft%20excel)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   ![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
@@ -46,6 +48,9 @@
   ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
   ![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks)
   ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)
+- ⚒️ &nbsp;
+  ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium&logoColor=white)
+  ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-05122A?style=flat&logo=beautiful%20soupColor=white)
 - 🤖 &nbsp;
   ![scikitlearn](https://img.shields.io/badge/-Scikit%20learn-05122A?style=flat&logo=scikitlearn)
   ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)
