@@ -23,6 +23,7 @@
   ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)
   ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apachespark)
+  ![Polars](https://img.shields.io/badge/-Polars-05122A?style=flat&logo=polars&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
   ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server)
@@ -50,7 +51,7 @@
   ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)
 - ⚒️ &nbsp;
   ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium&logoColor=white)
-  ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-05122A?style=flat&logo=beautiful%20soupColor=white)
+  ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-05122A?style=flat&logo=beautiful%20soup&logoColor=white)
 - 🤖 &nbsp;
   ![scikitlearn](https://img.shields.io/badge/-Scikit%20learn-05122A?style=flat&logo=scikitlearn)
   ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)
