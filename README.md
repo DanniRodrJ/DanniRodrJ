@@ -6,10 +6,11 @@
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
-- 🛠️ I'm currently working on projects to expand my [portfolio](https://www.datascienceportfol.io/dannirodrj)
+- 🛠️ I'm currently working as **Data Analyst** for [Forum SuperMayorista](https://www.linkedin.com/company/forum-supermayorista/)
+- 👩🏻‍💻 Doing projects to expand my [portfolio](https://www.datascienceportfol.io/dannirodrj)
 - 🎓 I studied Data Science📊🤖 at [Henry](https://www.soyhenry.com/) 🇦🇷 and Mechanical Engineering⚙️ at [UNEXPO](https://virtualunexpo.com/) 🇻🇪 
 - 💡 I like to explore new technologies 
-- 🌱 I'm currently learning more about **Natural Language Processing (NLP)**, **Time Series Analysis** and **Apache Airflow**. 
+- 🌱 I'm actually learning more about **Natural Language Processing (NLP)**, **Time Series Analysis** and studying ​📚​ a **Diplomate in Artificial Intelligence**.. 
 - 💬 Ask me about **Python**, **SQL** and **Machine Learning** 😉
 - ☘️ In my free time I usually exercise 🏋️‍♀️, read a book 📖, watch motorsports on TV 🏎️ or play video games 🎮. 
 
