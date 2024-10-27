@@ -1,4 +1,4 @@
-![image](https://github.com/DanniRodrJ/DanniRodrJ/blob/main/github.png)
+![image](https://github.com/DanniRodrJ/DanniRodrJ/blob/main/Danniela_Rodriguez.png)
 
 <h1 align="center"> Hi👋, Welcome! </h1> 
 <h4 align="center"> I'm Data Science Analyst </h4> 
