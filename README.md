@@ -6,12 +6,11 @@
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
-- 🛠️ I'm currently working as **Data Analyst** for [Forum SuperMayorista](https://www.linkedin.com/company/forum-supermayorista/)
-- 👩🏻‍💻 Doing projects to expand my [portfolio](https://www.datascienceportfol.io/dannirodrj)
-- 💻 I'm currently doing a Diploma in Artificial Intelligence 🤖 at [Humai](https://www.linkedin.com/school/instituto-humai/posts/?feedView=all) 🇦🇷
+- 🛠️ I'm currently working as **Data Analyst** for [Forum SuperMayorista](https://www.linkedin.com/company/forum-supermayorista/) 
+- 🌱 I'm currently pursuing a Diploma in Artificial Intelligence 🤖 at [Humai](https://www.linkedin.com/school/instituto-humai/posts/?feedView=all) 🇦🇷 and doing projects to expand my [portfolio](https://www.datascienceportfol.io/dannirodrj)b
 - 🎓 I studied Data Science📊🤖 at [Henry](https://www.soyhenry.com/) 🇦🇷, Mechanical Engineering⚙️ at [UNEXPO](https://virtualunexpo.com/) 🇻🇪
 - 💡 I like to explore new technologies 
-- 🌱 I'm actually learning more about **Natural Language Processing (NLP)**, **Time Series Analysis** and studying ​📚​ a **Diplomate in Artificial Intelligence**.. 
+- 👩🏻‍💻 Focused on specializing in **Natural Language Processing (NLP)**, **Computer Vision**, **Predictive Algorithms** and **Reinforcement Learning**
 - 💬 Ask me about **Python**, **SQL** and **Machine Learning** 😉
 - ☘️ In my free time I usually exercise 🏋️‍♀️, read a book 📖, watch motorsports on TV 🏎️ or play video games 🎮. 
 
@@ -29,7 +28,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
   ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-  ![Oracle](https://img.shields.io/badge/-Oracle-F80E42?style=flat&logo=oracle)
+  ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 - 🌐 &nbsp;
   ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-05122A?style=flat&logo=apachehadoop)
@@ -39,8 +38,7 @@
   ![PowerBI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn&logoColor=white)
-  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75?style=flat&logo=plotly&logoColor=white)
-  ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
+  ![Plotly](https://img.shields.io/badge/Plotly-05122A?style=flat&logo=plotly&logoColor=white)
   ![Excel](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat&logo=microsoft%20excel)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -49,6 +47,7 @@
   ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)
 - ⚒️ &nbsp;
   ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
+  ![Django](https://img.shields.io/badge/django-05122A?style&logo=flat&logoColor=white)
   ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium&logoColor=white)
   ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-05122A?style=flat&logo=beautiful%20soup&logoColor=white)
   ![Scrapy](https://img.shields.io/badge/-Scrapy-05122A?style=flat&logo=scrapy&logoColor=white)
@@ -57,6 +56,8 @@
   ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)
   ![spaCy](https://img.shields.io/badge/-spaCy-05122A?style=flat&logo=spacy)
   ![NLTK](https://img.shields.io/badge/-NLTK-05122A?style=flat&logo=nltk)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=flat&logo=PyTorch&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=TensorFlow&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   ![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
