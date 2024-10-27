@@ -1,14 +1,15 @@
 ![image](https://github.com/DanniRodrJ/DanniRodrJ/blob/main/github.png)
 
 <h1 align="center"> Hi👋, Welcome! </h1> 
-<h4 align="center"> I'm an Data Science Engineer </h4> 
+<h4 align="center"> I'm an Data Science Analyst </h4> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DanniRodrJ&label=Profile%20views&color=05122A&style=flat" alt="DanniRodrJ" /> </p>
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 🛠️ I'm currently working as **Data Analyst** for [Forum SuperMayorista](https://www.linkedin.com/company/forum-supermayorista/)
 - 👩🏻‍💻 Doing projects to expand my [portfolio](https://www.datascienceportfol.io/dannirodrj)
-- 🎓 I studied Data Science📊🤖 at [Henry](https://www.soyhenry.com/) 🇦🇷 and Mechanical Engineering⚙️ at [UNEXPO](https://virtualunexpo.com/) 🇻🇪 
+- 💻 I'm currently doing a Diploma in Artificial Intelligence 🤖 at [Humai](https://www.linkedin.com/school/instituto-humai/posts/?feedView=all) 🇦🇷
+- 🎓 I studied Data Science📊🤖 at [Henry](https://www.soyhenry.com/) 🇦🇷, Mechanical Engineering⚙️ at [UNEXPO](https://virtualunexpo.com/) 🇻🇪
 - 💡 I like to explore new technologies 
 - 🌱 I'm actually learning more about **Natural Language Processing (NLP)**, **Time Series Analysis** and studying ​📚​ a **Diplomate in Artificial Intelligence**.. 
 - 💬 Ask me about **Python**, **SQL** and **Machine Learning** 😉
@@ -28,6 +29,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
   ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+  ![Oracle](https://img.shields.io/badge/-Oracle-F80E42?style=flat&logo=oracle)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 - 🌐 &nbsp;
   ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-05122A?style=flat&logo=apachehadoop)
@@ -37,6 +39,7 @@
   ![PowerBI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn&logoColor=white)
+  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75?style=flat&logo=plotly&logoColor=white)
   ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
   ![Excel](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat&logo=microsoft%20excel)
 - 🔧 &nbsp;
