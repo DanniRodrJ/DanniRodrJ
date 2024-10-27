@@ -7,7 +7,7 @@
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 🛠️ I'm currently working as **Data Analyst** for [Forum SuperMayorista](https://www.linkedin.com/company/forum-supermayorista/) 
-- 🌱 I'm currently pursuing a Diploma in Artificial Intelligence 🤖 at [Humai](https://www.linkedin.com/school/instituto-humai/posts/?feedView=all) 🇦🇷 and doing projects to expand my [portfolio](https://www.datascienceportfol.io/dannirodrj)b
+- 🌱 I'm currently pursuing a **Diploma in Artificial Intelligence** 🤖 at [Humai](https://www.linkedin.com/school/instituto-humai/posts/?feedView=all) 🇦🇷 and doing projects to expand my [portfolio](https://www.datascienceportfol.io/dannirodrj) 🌐
 - 🎓 I studied Data Science📊🤖 at [Henry](https://www.soyhenry.com/) 🇦🇷, Mechanical Engineering⚙️ at [UNEXPO](https://virtualunexpo.com/) 🇻🇪
 - 💡 I like to explore new technologies 
 - 👩🏻‍💻 Focused on specializing in **Natural Language Processing (NLP)**, **Computer Vision**, **Predictive Algorithms** and **Reinforcement Learning**
