@@ -72,8 +72,6 @@
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   ![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
   ![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)
-- 🔖 &nbsp;
-  ![Git](https://img.shields.io/badge/Git-05122A?logo=git&logoColor=fff)
 - ​☁️ &nbsp;
   ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-05122A?style=flat&logo=google%20cloud&logoColor=white)
 - 🤝 &nbsp;
