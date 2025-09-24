@@ -11,6 +11,8 @@ on:
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Permite escritura en el repositorio
     steps:
       - uses: actions/checkout@v4
       - uses: Platane/snk@v3
@@ -24,11 +26,9 @@ jobs:
           name: snake-outputs
           path: dist/
       - name: Push to branch
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add dist/
           git commit -m "Update snake game assets" || echo "No changes to commit"
-          git push https://DanniRodrJ:${GITHUB_TOKEN}@github.com/DanniRodrJ/DanniRodrJ.git
+          git push
