@@ -24,11 +24,9 @@ jobs:
           name: snake-outputs
           path: dist/
       - name: Push to branch
-        env:
-          PAT: ${{ secrets.PAT }}
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add dist/
-          git commit -m "Update snake game assets"
-          git push https://x:${PAT}@github.com/${{ github.repository_owner }}/DanniRodrJ.git
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.PAT }}
+          branch: main
+          directory: dist/
+          message: "Update snake game assets"
