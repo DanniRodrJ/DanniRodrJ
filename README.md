@@ -86,6 +86,12 @@ If you need someone to join your team, are interested in collaborating, or have 
   <a href="https://linkedin.com/in/danniela-rodriguez-jove-/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
 </p>
 
+### 🐍 &nbsp;GitHub Snake Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="dist/github-snake.svg" />
+</picture>
+
 ### ⚙️ &nbsp;GitHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanniRodrJ&show_icons=true&theme=dracula)
-
