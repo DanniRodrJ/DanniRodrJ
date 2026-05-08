@@ -1,7 +1,8 @@
 ![image](https://github.com/DanniRodrJ/DanniRodrJ/blob/main/Danniela_Rodriguez.png)
 
-<h1 align="center"> Hi👋, Welcome! </h1> 
-<h4 align="center"> I'm Data Science Analyst </h4> 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=79DCF2&center=true&vCenter=true&width=435&separator=%3C&lines=%F0%9F%91%8B+Hi%2C+I'm+Danniela;%3CData+Scientist+%26+AI+Developer+%F0%9F%A4%96%3CWelcome+to+my+profile!+%E2%98%BA%EF%B8%8F" alt="Typing SVG" /></a>
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DanniRodrJ&label=Profile%20views&color=05122A&style=flat" alt="DanniRodrJ" /> </p>
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
